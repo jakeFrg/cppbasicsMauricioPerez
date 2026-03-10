@@ -1,0 +1,1 @@
+¡Vamos a comprobar qué tan bien has dominado el nuevo material! Responde algunas preguntas y completa varios ejercicios de codificación para consolidar lo que has aprendido.

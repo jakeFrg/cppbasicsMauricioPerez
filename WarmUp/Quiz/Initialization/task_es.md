@@ -1,0 +1,1 @@
+Seleccione todas las declaraciones que __inicialicen correctamente__ las variables.

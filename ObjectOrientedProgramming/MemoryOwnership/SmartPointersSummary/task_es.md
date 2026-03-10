@@ -1,0 +1,12 @@
+Para resumir las diferencias entre los distintos tipos de punteros, echemos un vistazo a la tabla:
+
+| Característica                      | `T*`                          | `std::unique_ptr<T>`                    | `std::shared_ptr<T>`                             | `std::weak_ptr<T>`                                         |
+|-------------------------------------|-------------------------------|-----------------------------------------|--------------------------------------------------|------------------------------------------------------------|
+| **Semántica de Propiedad**          | Gestión manual de propiedad   | Propiedad única                         | Propiedad compartida                             | Observador no intrusivo, sin propiedad                     |
+| **Gestión de Memoria**              | Se requiere desasignación manual | Desasignación automática              | Desasignación automática                         | Sin responsabilidad de desasignación                       |
+| **Copiable**                        | Copiable (copia superficial)  | Movible (transferencia de propiedad)    | Copiable (propiedad compartida)                  | Copiable (propiedad compartida)                            |
+| **Conteo de Referencias**           | No                            | No                                      | Sí                                               | Sí                                                         |
+| **Resolución de Dependencia Circular** | N/A                           | N/A                                     | Resuelto usando weak_ptr                         | Resuelto usando weak_ptr                                   |
+| **Caso de Uso**                     | Manipulación de memoria de bajo nivel | Propiedad exclusiva, no transferible | Propiedad compartida, múltiples referencias      | Observación de propiedad compartida sin afectar la vida útil |
+| **Uso Común**                       | Uso básico de punteros        | Propiedad delimitada, evitando fugas de memoria | Gestión de recursos compartidos, evitando fugas de memoria | Rompiendo dependencias circulares, observación de propiedad compartida |
+| **Limpieza Automática al Salir del Alcance** | No                           | Sí                                      | Sí                                               | N/A (sin propiedad)                                        |

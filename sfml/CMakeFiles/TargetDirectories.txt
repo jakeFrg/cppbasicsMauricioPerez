@@ -1,0 +1,3 @@
+C:/Users/B760M/CLionProjects/C++ Basics/sfml/CMakeFiles/sfml.dir
+C:/Users/B760M/CLionProjects/C++ Basics/sfml/CMakeFiles/edit_cache.dir
+C:/Users/B760M/CLionProjects/C++ Basics/sfml/CMakeFiles/rebuild_cache.dir

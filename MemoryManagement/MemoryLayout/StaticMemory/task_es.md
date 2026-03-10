@@ -1,0 +1,3 @@
+La memoria estática contiene todas las variables globales, así como el propio código del programa. La memoria estática se asigna e inicializa al inicio del programa y solo se libera cuando termina el programa. Por lo tanto, la memoria en esta región está disponible durante toda la ejecución del programa.
+
+El programa adjunto a este paso define dos variables globales e imprime sus direcciones en la terminal. Ejecute este programa para ver las direcciones asignadas a estas variables.

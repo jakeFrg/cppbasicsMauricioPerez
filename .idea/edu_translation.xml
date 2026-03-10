@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TranslationProjectSettings">
+    <option name="currentTranslationLanguage" value="Spanish" />
+    <option name="structureTranslation">
+      <map>
+        <entry key="Spanish">
+          <value>
+            <map>
+              <entry key="1015335821" value="Tipos de Variables" />
+              <entry key="1058882847" value="Plantillas" />
+              <entry key="1104725188" value="Regiones de memoria" />
+              <entry key="1115762628" value="DirecciónDe" />
+              <entry key="112619569" value="Divirtiéndose" />
+              <entry key="1151088479" value="Juega un Poco" />
+              <entry key="1151955595" value="Tamaño de punteros" />
+              <entry key="1185355625" value="Errores de memoria" />
+              <entry key="1207443236" value="Conversiones de tipo estilo C++" />
+              <entry key="1219096424" value="Conceptos básicos de templates" />
+              <entry key="1236700959" value="Constructor de copia" />
+              <entry key="1243903120" value="Punteros" />
+              <entry key="1250506189" value="La Edad No Importa" />
+              <entry key="1275808096" value="¿Mutable o inmutable?" />
+              <entry key="12765597" value="Calculadora" />
+              <entry key="128140950" value="Inferencia de tipos" />
+              <entry key="128873677" value="Contenedores desordenados" />
+              <entry key="1307427631" value="shared_ptr" />
+              <entry key="1324014430" value="Memoria estática" />
+              <entry key="1353016492" value="Memoria de pila" />
+              <entry key="1361967113" value="Introducción" />
+              <entry key="1380175552" value="Alias de tipos" />
+              <entry key="1384624077" value="Uso eficiente de std::string" />
+              <entry key="1402551179" value="Recuperación de datos" />
+              <entry key="1431255614" value="Un Poco de Espontaneidad" />
+              <entry key="1441809230" value="Empieza el Juego" />
+              <entry key="1459191764" value="Propiedad de memoria" />
+              <entry key="1504863152" value="Colisiones revisadas" />
+              <entry key="1512579493" value="Algoritmos de STL" />
+              <entry key="1527203786" value="Miembros estáticos" />
+              <entry key="1543486324" value="Introducción a los objetos" />
+              <entry key="1562916100" value="Placement new" />
+              <entry key="1570355718" value="Gestión de memoria" />
+              <entry key="1572869330" value="Nuevo desafío" />
+              <entry key="1577691679" value="Categorías de iteradores" />
+              <entry key="1596188677" value="Propiedad" />
+              <entry key="1605541553" value="¿Apuntar a las mismas variables?" />
+              <entry key="1616388500" value="Memoria dinámica" />
+              <entry key="1630752840" value="Conversión de tipos y cadenas de estilo C" />
+              <entry key="1668261832" value="Distribución de memoria de arreglos" />
+              <entry key="1676633014" value="Punteros a funciones" />
+              <entry key="1681252549" value="Estilos C y C++" />
+              <entry key="169985449" value="Cuestionario" />
+              <entry key="1730230096" value="AddressEscape" />
+              <entry key="1741900836" value="Mover un Objeto" />
+              <entry key="1754197707" value="Agregar puntuación" />
+              <entry key="1758066928" value="Dando Dirección" />
+              <entry key="1785975432" value="Clases y objetos" />
+              <entry key="1786442880" value="División de cadenas de estilo C" />
+              <entry key="1799743844" value="Resumen de STL" />
+              <entry key="1804258122" value="Pasando argumentos" />
+              <entry key="1821411633" value="Biblioteca estándar de plantillas" />
+              <entry key="1821511394" value="Dibujar una Línea" />
+              <entry key="1829408753" value="Concatenación de cadenas de estilo C" />
+              <entry key="1837007322" value="Constante" />
+              <entry key="187428144" value="Nueva dinámica" />
+              <entry key="1874659665" value="Intercambiar de nuevo" />
+              <entry key="187639286" value="Intercambiar" />
+              <entry key="1914193279" value="Mirar Alrededor" />
+              <entry key="1927538608" value="Const y referencias" />
+              <entry key="1927697951" value="Corriendo en un Bucle" />
+              <entry key="1957876134" value="Especialización de templates" />
+              <entry key="1965960933" value="RAII y el idiom Copy-and-Swap" />
+              <entry key="1988427257" value="Límites de lo Posible" />
+              <entry key="1993315692" value="std::vector" />
+              <entry key="2002200286" value="Lista enlazada" />
+              <entry key="2020615914" value="Copiar arreglo" />
+              <entry key="2043320501" value="Transición de escena" />
+              <entry key="2047858014" value="Contenedores map" />
+              <entry key="2048215991" value="Conversiones de tipo estilo C" />
+              <entry key="2076082187" value="Comencemos" />
+              <entry key="2097510149" value="Encapsulamiento" />
+              <entry key="2100131281" value="Ciclo de vida del objeto" />
+              <entry key="2114036261" value="Entrada de nombre" />
+              <entry key="2132052242" value="Primeras Palabras" />
+              <entry key="2143763503" value="Avanzando" />
+              <entry key="223242583" value="weak_ptr" />
+              <entry key="243246015" value="Sigue Girando" />
+              <entry key="255032253" value="Programación orientada a objetos" />
+              <entry key="267632304" value="Suma de Positivos" />
+              <entry key="291456912" value="¿Cómo se pasan los argumentos?" />
+              <entry key="318975305" value="Inicialización" />
+              <entry key="344354026" value="Puntero Nulo" />
+              <entry key="362412519" value="Contenedores set" />
+              <entry key="374170160" value="Contenedores secuenciales" />
+              <entry key="377784711" value="Lista enlazada" />
+              <entry key="480502112" value="Adaptadores de contenedores secuenciales" />
+              <entry key="490630161" value="Fundamentos de la biblioteca estándar" />
+              <entry key="546734997" value="Introducción" />
+              <entry key="59489612" value="Organización de memoria" />
+              <entry key="598027405" value="Elegir conversiones de tipo válidas" />
+              <entry key="612228753" value="Calentamiento" />
+              <entry key="628879591" value="Marcador" />
+              <entry key="643261225" value="Introducción" />
+              <entry key="656697934" value="Polimorfismo" />
+              <entry key="67452345" value="Resumen de contenedores" />
+              <entry key="677640706" value="Distribución de memoria de tipos personalizados" />
+              <entry key="691340791" value="Int Máximo" />
+              <entry key="696702487" value="TamañoDe" />
+              <entry key="700142889" value="Operadores new y delete" />
+              <entry key="709606924" value="Cadenas de estilo C" />
+              <entry key="742587605" value="unique_ptr" />
+              <entry key="777268785" value="Flujos de entrada/salida" />
+              <entry key="793851439" value="Cazando Errores" />
+              <entry key="811498572" value="Semántica de movimiento" />
+              <entry key="841812685" value="Sobrecarga de operadores" />
+              <entry key="862067153" value="Preséntate" />
+              <entry key="891080999" value="Subiendo" />
+              <entry key="892690813" value="Referencias" />
+              <entry key="911313023" value="Resumen de punteros inteligentes" />
+              <entry key="911995171" value="Aritmética de punteros" />
+              <entry key="917349429" value="Bienvenido" />
+              <entry key="932533883" value="Consumir un Objeto" />
+              <entry key="952493909" value="Encuesta" />
+              <entry key="962532016" value="Introducción" />
+              <entry key="971729525" value="¡Hola Mundo!" />
+              <entry key="976646331" value="Introducción a los iteradores" />
+              <entry key="980879362" value="Herencia" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="translationVersions">
+      <map>
+        <entry key="Spanish" value="2574" />
+      </map>
+    </option>
+  </component>
+</project>
