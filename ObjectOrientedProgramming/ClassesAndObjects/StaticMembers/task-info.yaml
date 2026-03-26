@@ -71,5 +71,8 @@ files:
   - name: src/leaderboardscene.cpp
     visible: false
     learner_created: false
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 26 Mar 2026 13:21:11 UTC"
+record: 24

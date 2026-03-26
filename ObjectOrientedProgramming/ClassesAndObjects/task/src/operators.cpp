@@ -1,41 +1,42 @@
 #include "game.hpp"
 
 Point2D operator+(Point2D a, Point2D b) {
-    // TODO: write your solution here
+    return add(a, b);
 }
 
 Point2D operator-(Point2D a) {
-    // TODO: write your solution here
+    return { -a.x, -a.y };
 }
 
 Point2D operator-(Point2D a, Point2D b) {
-    // TODO: write your solution here
+    return add(a, -b);
 }
 
 Point2D operator*(float s, Point2D a) {
-    // TODO: write your solution here
+    return mul(s, a);
 }
 
 Circle operator+(Circle c, Point2D v) {
-    // TODO: write your solution here
+    return { c.center + v, c.radius };
 }
 
 Circle operator-(Circle c, Point2D v) {
-    // TODO: write your solution here
+    return { c.center - v, c.radius };
 }
 
 Rectangle operator+(Rectangle r, Point2D v) {
-    // TODO: write your solution here
+    return { r.topLeft + v, r.botRight + v };
 }
 
 Rectangle operator-(Rectangle r, Point2D v) {
-    // TODO: write your solution here
+    return { r.topLeft - v, r.botRight - v };
 }
 
 Circle operator*(float s, Circle c) {
-    // TODO: write your solution here
+    return { c.center, s * c.radius };
 }
 
 Rectangle operator*(float s, Rectangle r) {
-    // TODO: write your solution here
+    Point2D v = { width(r), height(r) };
+    return { r.topLeft, r.topLeft + s * v };
 }

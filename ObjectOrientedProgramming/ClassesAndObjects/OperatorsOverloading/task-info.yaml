@@ -71,5 +71,5 @@ files:
   - name: src/leaderboardscene.cpp
     visible: false
     learner_created: false
-status: Unchecked
-record: -1
+status: Solved
+record: 22

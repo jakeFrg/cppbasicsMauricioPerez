@@ -3,8 +3,8 @@
 #include "constants.hpp"
 
 GameEngine *GameEngine::create() {
-    // TODO: write your solution here
-    return nullptr;
+    static GameEngine engine;
+    return &engine;
 }
 
 GameEngine::GameEngine()
@@ -87,7 +87,6 @@ void GameEngine::sceneTransition() {
         }
     }
 }
-
 
 void GameEngine::resizeWindow() {
     Rectangle sceneBox = scene->getBoundingBox();

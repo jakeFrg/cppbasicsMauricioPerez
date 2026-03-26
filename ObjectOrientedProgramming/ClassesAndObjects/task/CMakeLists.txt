@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.25)
 
-project(ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading)
+project(ObjectOrientedProgramming-ClassesAndObjects-NewDynamics)
 
 set(SRC
         src/main.cpp
@@ -12,9 +12,6 @@ set(SRC
         src/rectangle.cpp src/point.cpp
         src/operators.cpp src/utils.cpp
 )
-
-set(TASK
-        src/operators.cpp)
 
 set(TEST
         test/test.cpp)
